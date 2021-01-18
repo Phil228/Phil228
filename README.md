@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.Js**
 
-- 👨‍💻 All of my projects are available at [github.com/phil228](github.com/phil228)
+- 👨‍💻 All of my projects are available at [Phil228](Phil228)
 
 - 📫 How to reach me **admin@shiningwoods.tk**
 
