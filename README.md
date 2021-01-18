@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/phil228_" target="blank"><img src="https://img.shields.io/twitter/follow/phil228_?logo=twitter&style=for-the-badge" alt="phil228_" /></a> </p>
 
-- 🔭 I’m currently working on [ShiningWoods](github.com/org/shiningwoods)
+- 🔭 I’m currently working on [ShiningWoods](github.com/ShiningWoods)
 
 - 🌱 I’m currently learning **Node.Js**
 
