@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available here in my GitHub profile 
+- 👨‍💻 All of my public projects are available here in my GitHub profile 
 
 - 📫 How to reach me **admin@shiningwoods.tk**
 
