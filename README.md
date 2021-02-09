@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [ShiningWoods](github.com/org/shiningwoods)
 
-- 🌱 I’m currently learning **Node.Js**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available here in my GitHub profile 
 
