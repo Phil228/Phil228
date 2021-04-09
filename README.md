@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available here in my GitHub profile 
 
-- 📫 How to reach me **admin@shiningwoods.tk** offline
+- 📫 How to reach me **admin@shiningwoods.tk** **(offline)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
