@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philo</h1>
-- 🔭 I’m currently working on **@Flexarmy**
+- 🔭 I’m currently working on @Flexarmy
 
 - 🌱 I’m currently learning **GOLang**
 
