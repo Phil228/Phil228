@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **GOLang**
 
-- 👨‍💻 All of my public projects are available at [GitHub Profile](GitHub Profile)
+- 👨‍💻 All of my public projects are available at my GitHub profile
 
 - 📫 How to reach me **In a Discord PM Phil228#5356**
 
